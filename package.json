@@ -1,5 +1,5 @@
 {
-    "name": "lesezeichen",
+    "name": "linksilo",
     "version": "0.0.1",
     "description": "An app for saving your bookmarks locally",
     "author": "Tibor Legat <herrlegat@boneyfantaseas.de>",
@@ -8,7 +8,7 @@
     "email": "herrlegat@boneyfantaseas.de"
   }],
     "bin": {
-    "module-name": "./bin/lesezeichen"
+    "module-name": "./bin/linksilo"
   },
     "scripts": {
     //   "test": "vows --spec --isolate",
@@ -29,21 +29,9 @@
 //     "example",
 //     "browsenpm"
 //   ],
-    "dependencies": {
-    //   "primus": "*",
-    //   "async": "~0.8.0",
-    //   "express": "4.2.x",
-    //   "winston": "git://github.com/flatiron/winston#master",
-    //   "bigpipe": "bigpipe/pagelet",
-    //   "plates": "https://github.com/flatiron/plates/tarball/master"
-    },
-    "devDependencies": {
-    //   "vows": "^0.7.0",
-    //   "assume": "<1.0.0 || >=2.3.1 <2.4.5 || >=2.5.2 <3.0.0",
-    //   "pre-commit": "*"
-    },
+    "dependencies": {},
+    "devDependencies": {},
     // "preferGlobal": true,
-    "private": true,
     "publishConfig": {
     // "registry": "https://your-private-hosted-npm.registry.nodejitsu.com"
   },
