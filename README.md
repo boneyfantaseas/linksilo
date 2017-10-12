@@ -1,5 +1,5 @@
 # Linksilo
-The place your bookmarks feel at home.
+The place where your bookmarks feel at home.
 
 ## Roadmap
 - Add [XBEL support](https://de.wikipedia.org/wiki/XML_Bookmark_Exchange_Language)
